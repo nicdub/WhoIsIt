@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhoIsIt</string>
+    <string name="svc_description">WhoIsIt - on EPFL incoming call, try to find identity of caller and create/update contact</string>
+    <string name="pref_apiUrl">pref_apiUrl</string>
+</resources>
